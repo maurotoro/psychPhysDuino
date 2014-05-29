@@ -1,5 +1,4 @@
-A Arduino implementation of a skin temperature, and breathing frequency sensors box. Able to connect to almost any experimental design by 3 photodiode signals to 
-keep the signals time-align.
+A Arduino implementation of a skin temperature, and breathing frequency sensors box. Able to connect to almost any experimental design by 3 photodiode signals to keep the signals time-align.
 
 Everything it's under crapl license
 
